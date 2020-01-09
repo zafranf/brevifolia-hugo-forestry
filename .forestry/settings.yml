@@ -7,7 +7,6 @@ sections:
 - type: document
   path: ngetes.com
   label: ngetes
-  match: "**/*"
 - type: heading
   label: Content
 - type: document
